@@ -9,7 +9,6 @@ body {
 a {
   text-decoration: none;
 }
-
 header {
   padding-top: 3.5rem;
   padding-bottom: 3.5rem;
@@ -61,9 +60,9 @@ p {
   box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.15);
 }
 main {
-	max-width: 1200px;
-	margin: 0 auto;
-	padding-left: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 2rem;
   padding-right: 2rem;
 }
 .cards {
